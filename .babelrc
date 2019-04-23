@@ -1,0 +1,14 @@
+﻿{
+  "presets": [ "@babel/preset-env", "@babel/preset-react" ],
+  "plugins": [
+    [
+      "@babel/plugin-proposal-class-properties",
+      { "loose": true }
+    ]
+  ]
+}
+
+
+//{
+//  "presets": [ "babel-preset-es2015", "babel-preset-stage-0", "babel-preset-react" ]
+//}
